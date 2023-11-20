@@ -7,8 +7,9 @@
 
 ### Tech Stack
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="70" height="70"/></a>
-<a href="https://quarkus.io/"><img src="https://www.opensourcerers.org/wp-content/uploads/2020/11/quarkus_blogpost_formallogo-3.png" alt="Quarkus" width="70" height="70"/></a>
+<a href="https://quarkus.io/"><img src="https://www.opensourcerers.org/wp-content/uploads/2020/11/quarkus_blogpost_formallogo-3.png" alt="Quarkus" width="80" height="70"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="70" height="70"/></a>
+<a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="70" height="70"/></a>
 <a href="https://dotnet.microsoft.com"><img src="https://www.itarchitectsnews.com/wp-content/uploads/NET_Core_Logo.svg_-1024x1024.png" alt=".NET Core" width="70" height="70"/></a>
 <a href="https://kafka.apache.org"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="70" height="70"/></a>
 <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="70" height="70"/></a>
@@ -17,8 +18,10 @@
 <a href="https://ionicframework.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="Ionic" width="70" height="70"/></a>
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="70" height="70"/></a>
 <a href="https://kubernetes.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/></a>
-<a href="https://en.wikipedia.org/wiki/MacOS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Apple OSX" width="70" height="70"/></a>
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"><img src="https://download.logo.wine/logo/OpenShift/OpenShift-Logo.wine.png" alt="Openshift" width="70" height="70"/></a>
+<a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="70" height="70"/></a>
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/></a>
+<a href="https://www.redhat.com"><img src="https://www.pngrepo.com/png/354273/512/redhat-icon.png" alt="Red Hat" width="70" height="70"/></a>
 
 <!--
 **marcelomrwin/marcelomrwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
